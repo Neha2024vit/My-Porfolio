@@ -1,5 +1,5 @@
 # My-Porfolio
-# Neha | Personal Portfolio
+# Neha |Developer Portfolio
 
 ## About
 A personal portfolio website showcasing my technical skills, academic projects, and interests in Computer Science, AI/ML, and software development.
